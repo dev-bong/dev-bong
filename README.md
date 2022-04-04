@@ -1,6 +1,6 @@
 ### Hi there 👋
-✨ I’m junior back end developer.
-🌱 I’m currently learning python, AWS, serverless architecture.. etc.
+- ✨ I’m junior back end developer.
+- 🌱 I’m currently learning python, AWS, serverless architecture.. etc.
 
 <!--
 **dev-bong/dev-bong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
